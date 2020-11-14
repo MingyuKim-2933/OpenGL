@@ -1,0 +1,20 @@
+﻿  RobotArm-template.cpp
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(135,44): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(137,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(150,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(151,46): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(162,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(163,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(164,46): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(175,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(176,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(177,46): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(188,45): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(189,46): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(196,23): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(202,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(236,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(240,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김민규\Desktop\2016113290 김민규\RobotArm\RobotArm-template.cpp(255,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LINK : C:\Users\김민규\Desktop\2016113290 김민규\x64\Debug\RobotArm.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  RobotArm.vcxproj -> C:\Users\김민규\Desktop\2016113290 김민규\x64\Debug\RobotArm.exe
