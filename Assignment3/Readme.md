@@ -1,4 +1,4 @@
-/<Assignment 3>
+<Assignment 3>
 
 로봇 팔 시뮬레이터
 
